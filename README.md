@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**k8thegrr8/k8thegrr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on earning an Associate in Applied Science in Advertising & Graphic Design (anticipated May 2025).
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kkelly@my.waketech.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have two Great Pyrenees, Oliver and Winne, two cats, Miso and Bento, a Bearded Dragon named Mushu, and a Giant African Bullfrog named David.
--->
