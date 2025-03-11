@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on earning an Associate in Applied Science in Advertising & Graphic Design (anticipated May 2025).
 - 🌱 I’m currently learning how to code.
 - 👯 I’m looking to collaborate on graphic or web design projects.
